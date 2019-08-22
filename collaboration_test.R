@@ -1,6 +1,6 @@
 library(ggplot2)
 
-n <- 100
+n <- 10000
 
 df <- data.frame(
   x <- rnorm(n, 0, 1),
